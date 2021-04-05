@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse 
 ![](img/newlogo.png)
 
-**Course Date:** 05.04.2021 
+**Course Date:\n** 05.04.2021 
 **Name:** Burak 
 **Surname:** Keçeci  
 **Email:** burakkececii48@gmail.com  
